@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "F&N Website by Leon, Ryan, Jovito and Moses",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 80,
     "versionPublish": "4.6.7",
@@ -1186,6 +1186,9 @@
                   "margin-right": "0 !important"
                 }
               }
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_name": "timeline1",
