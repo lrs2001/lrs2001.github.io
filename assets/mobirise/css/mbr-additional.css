@@ -43,10 +43,10 @@ body {
 }
 .display-5 {
   font-family: 'Anton', sans-serif;
-  font-size: 1.5rem;
+  font-size: 3rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 4.8rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -77,9 +77,9 @@ body {
     line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.4rem;
+    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1760,7 +1760,7 @@ body {
 }
 .cid-qQ641xe4VT .nav-link:hover,
 .cid-qQ641xe4VT .dropdown-item:hover {
-  color: #232323 !important;
+  color: #ffffff !important;
 }
 .cid-qPpFoUKc6v {
   padding-top: 120px;
@@ -1799,23 +1799,23 @@ body {
 .cid-qPV9bywSYF P {
   color: #ffffff;
 }
-.cid-qPpJgxjlDj {
+.cid-qQm8TYi4JZ {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/dadada-1-1360x906.jpg");
 }
-.cid-qPpJgxjlDj .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-.cid-qPpJgxjlDj .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
+@media (min-width: 992px) {
+  .cid-qQm8TYi4JZ .mbr-figure {
+    padding-left: 4rem;
+  }
 }
 @media (max-width: 991px) {
-  .cid-qPpJgxjlDj .mbr-figure img {
-    width: 100% !important;
+  .cid-qQm8TYi4JZ .mbr-figure {
+    padding-top: 3rem;
   }
+}
+.cid-qQm8TYi4JZ .mbr-section-title {
+  color: #232323;
 }
 .cid-qPpHIU6dCU {
   padding-top: 90px;
@@ -2783,5 +2783,5 @@ body {
 }
 .cid-qQ794b5IZa .nav-link:hover,
 .cid-qQ794b5IZa .dropdown-item:hover {
-  color: #232323 !important;
+  color: #ffffff !important;
 }
