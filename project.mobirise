@@ -812,6 +812,9 @@
                 "-webkit-transition": "0.2s background ease-in-out",
                 "transition": "0.2s background ease-in-out"
               }
+            },
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
             }
           },
           "_name": "gallery1",
@@ -888,7 +891,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/blueberry-cookie-cream-puff-by-g12-730x752-730x752.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "&nbsp; &nbsp; &nbsp;Blueberry Cookie Cream Puff <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; by G12",
+                "caption": "&nbsp; &nbsp; &nbsp;Blueberry Cookie Cream Puff <br>&nbsp; &nbsp; &nbsp; by G12",
                 "active": false
               },
               {
